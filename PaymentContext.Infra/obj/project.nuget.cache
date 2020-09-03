@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOcHnNT7aL2i+qD2hciJFKByQzsgu5eWPUnCTJFgn5Jf0LqRY5c+WJ+I+2C9jDK7/Rb9sVDNGXEHbMq03t+lKw==",
+  "success": true,
+  "projectFilePath": "D:\\Codigos\\NET\\PaymentContext\\PaymentContext.Infra\\PaymentContext.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

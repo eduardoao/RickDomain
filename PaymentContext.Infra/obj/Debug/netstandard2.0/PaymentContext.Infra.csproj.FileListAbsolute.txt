@@ -1,0 +1,9 @@
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\obj\Debug\netstandard2.0\PaymentContext.Infra.csprojAssemblyReference.cache
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\obj\Debug\netstandard2.0\PaymentContext.Infra.AssemblyInfoInputs.cache
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\obj\Debug\netstandard2.0\PaymentContext.Infra.AssemblyInfo.cs
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\obj\Debug\netstandard2.0\PaymentContext.Infra.csproj.CoreCompileInputs.cache
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\bin\Debug\netstandard2.0\PaymentContext.Infra.deps.json
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\bin\Debug\netstandard2.0\PaymentContext.Infra.dll
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\bin\Debug\netstandard2.0\PaymentContext.Infra.pdb
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\obj\Debug\netstandard2.0\PaymentContext.Infra.dll
+D:\Codigos\NET\PaymentContext\PaymentContext.Infra\obj\Debug\netstandard2.0\PaymentContext.Infra.pdb
